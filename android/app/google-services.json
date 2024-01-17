@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098008093436",
+    "project_id": "imanage-16c08",
+    "storage_bucket": "imanage-16c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098008093436:android:616e122b9a3d7ad898ad79",
+        "android_client_info": {
+          "package_name": "com.example.imanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098008093436-g51rkji04m47836rf0rr3asctibd3tps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxNc19PQ1So_hndDwUCoS4ywXVAwawKb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098008093436-g51rkji04m47836rf0rr3asctibd3tps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
